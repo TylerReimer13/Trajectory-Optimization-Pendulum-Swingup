@@ -5,8 +5,3 @@ Optimal Trajectory is found by solving a nonlinear programming optimization prob
 
 [1] "https://epubs.siam.org/doi/pdf/10.1137/16M1062569"
 
-![](https://github.com/TylerReimer13/Trajectory-Optimization-Pendulum-Swingup/blob/main/Pendulum%20Swingup/movie.gif)
-
-![](https://github.com/TylerReimer13/Trajectory-Optimization-Pendulum-Swingup/blob/main/Pendulum%20Swingup/Optimal%20Inputs.png)
-
-![](https://github.com/TylerReimer13/Trajectory-Optimization-Pendulum-Swingup/blob/main/Pendulum%20Swingup/States.png)
